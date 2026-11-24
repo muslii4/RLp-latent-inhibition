@@ -11,6 +11,7 @@ dependencies = [
   "ipykernel>=7.4.0",
   "jupyter>=1.1.1",
   "matplotlib>=3.11.2",
+  "minigrid>=3.2.0",
   "numpy>=2.5.5",
   "pandas>=3.1.1",
   "pytest>=9.2.0",
